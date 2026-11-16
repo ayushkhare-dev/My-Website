@@ -1,0 +1,2217 @@
+{
+  "collections": {
+    "products": [
+      {
+        "id": "prod-headphones-noir",
+        "name": "Nova Air Pro Headphones",
+        "brand": "NextGenify",
+        "category": "Electronics",
+        "price": 4499,
+        "compareAtPrice": 5499,
+        "description": "Studio-tuned over-ear headphones with a warm, detailed sound signature. Memory-foam cushions and a copper-brushed finish make long listening sessions effortless.",
+        "highlights": [
+          "40mm dynamic drivers",
+          "30-hour battery life",
+          "Active noise cancellation",
+          "Foldable travel case included"
+        ],
+        "images": [
+          "/images/products/headphones-noir.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Noir",
+            "hex": "#1a1a1a"
+          },
+          {
+            "name": "Copper",
+            "hex": "#b56a4a"
+          }
+        ],
+        "stock": 24,
+        "rating": 4.7,
+        "reviewCount": 3,
+        "featured": false,
+        "isNew": true,
+        "isBestSeller": true,
+        "dealPrice": 3799,
+        "dealEndsAt": "2026-10-05T18:00:00.000Z"
+      },
+      {
+        "id": "prod-smartwatch-pulse",
+        "name": "Chronos X1 Smartwatch",
+        "brand": "NextGenify",
+        "category": "Watches",
+        "price": 6999,
+        "compareAtPrice": 8499,
+        "description": "Track workouts, sleep and heart rate with a display that stays crisp in direct sun. Seven-day battery life means you charge it on your schedule, not its.",
+        "highlights": [
+          "Always-on AMOLED display",
+          "7-day battery",
+          "50m water resistance",
+          "100+ workout modes"
+        ],
+        "images": [
+          "/images/products/smartwatch-pulse.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Onyx",
+            "hex": "#141414"
+          },
+          {
+            "name": "Copper",
+            "hex": "#a1633f"
+          }
+        ],
+        "stock": 18,
+        "rating": 4.5,
+        "reviewCount": 2,
+        "featured": true,
+        "isBestSeller": true
+      },
+      {
+        "id": "prod-speaker-sage",
+        "name": "Loop Portable Speaker",
+        "brand": "NextGenify",
+        "category": "Electronics",
+        "price": 2999,
+        "description": "A woven-fabric speaker with room-filling sound and a shape that looks as good on a shelf as it does at the beach. Fully waterproof.",
+        "highlights": [
+          "360\u00b0 sound",
+          "IPX7 waterproof",
+          "18-hour playtime",
+          "Pair two for stereo"
+        ],
+        "images": [
+          "/images/products/speaker-sage.jpg"
+        ],
+        "stock": 31,
+        "rating": 4.6,
+        "reviewCount": 2,
+        "isNew": true
+      },
+      {
+        "id": "prod-camera-mirrorless",
+        "name": "Vision Pro Camera",
+        "brand": "NextGenify",
+        "category": "Electronics",
+        "price": 34999,
+        "compareAtPrice": 39999,
+        "description": "A compact mirrorless body with a tactile leather-textured grip, built for photographers who want full control without the bulk.",
+        "highlights": [
+          "24MP APS-C sensor",
+          "4K/30 video",
+          "In-body stabilization",
+          "Weather-sealed body"
+        ],
+        "images": [
+          "/images/products/camera-mirrorless.jpg"
+        ],
+        "stock": 9,
+        "rating": 4.8,
+        "reviewCount": 2,
+        "isBestSeller": true
+      },
+      {
+        "id": "prod-jacket-bomber-olive",
+        "name": "Urban Edge Jacket",
+        "brand": "NextGenify",
+        "category": "Fashion",
+        "price": 3299,
+        "description": "A minimal bomber cut from brushed cotton twill, finished with ribbed cuffs and a stand collar. Layers well from autumn through early winter.",
+        "highlights": [
+          "Brushed cotton twill",
+          "Ribbed cuffs & hem",
+          "Two zip pockets",
+          "Regular fit"
+        ],
+        "images": [
+          "/images/products/jacket-bomber-olive.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Olive",
+            "hex": "#5c5a3d"
+          },
+          {
+            "name": "Black",
+            "hex": "#1b1b1b"
+          }
+        ],
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "stock": 22,
+        "rating": 4.4,
+        "reviewCount": 1,
+        "isNew": true
+      },
+      {
+        "id": "prod-sweater-oversized-cream",
+        "name": "Drift Oversized Sweater",
+        "brand": "NextGenify",
+        "category": "Fashion",
+        "price": 2199,
+        "description": "Chunky-knit and deliberately oversized, this sweater is the one you'll reach for on every slow weekend.",
+        "highlights": [
+          "Chunky rib knit",
+          "Drop-shoulder fit",
+          "Soft cotton-wool blend",
+          "Machine washable"
+        ],
+        "images": [
+          "/images/products/sweater-oversized-cream.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Cream",
+            "hex": "#e9e1d2"
+          },
+          {
+            "name": "Charcoal",
+            "hex": "#3c3b3a"
+          }
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 27,
+        "rating": 4.6,
+        "reviewCount": 2
+      },
+      {
+        "id": "prod-sneakers-canvas",
+        "name": "AeroFlex Sneakers",
+        "brand": "NextGenify",
+        "category": "Shoes",
+        "price": 2799,
+        "compareAtPrice": 3299,
+        "description": "Low-top canvas sneakers with a cushioned insole and a tan rubber sole that ages beautifully. Built for every day.",
+        "highlights": [
+          "Breathable canvas upper",
+          "Cushioned memory insole",
+          "Vulcanized rubber sole",
+          "Unisex sizing"
+        ],
+        "images": [
+          "/images/products/sneakers-canvas.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Chalk",
+            "hex": "#eee7da"
+          }
+        ],
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "stock": 40,
+        "rating": 4.7,
+        "reviewCount": 3,
+        "isBestSeller": true,
+        "dealPrice": 2199,
+        "dealEndsAt": "2026-10-05T18:00:00.000Z"
+      },
+      {
+        "id": "prod-bag-crossbody-tan",
+        "name": "Minimalist Leather Bag",
+        "brand": "NextGenify",
+        "category": "Fashion",
+        "price": 3599,
+        "description": "A structured crossbody in full-grain tan leather with brushed gold hardware \u2014 roomy enough for the essentials, sharp enough for the office.",
+        "highlights": [
+          "Full-grain leather",
+          "Adjustable strap",
+          "Interior zip pocket",
+          "Magnetic closure"
+        ],
+        "images": [
+          "/images/products/bag-crossbody-tan.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Tan",
+            "hex": "#a9764f"
+          },
+          {
+            "name": "Espresso",
+            "hex": "#4a3527"
+          }
+        ],
+        "stock": 15,
+        "rating": 4.5,
+        "reviewCount": 1,
+        "isNew": true
+      },
+      {
+        "id": "prod-lamp-ceramic-terracotta",
+        "name": "Ember Ceramic Table Lamp",
+        "brand": "NextGenify Home",
+        "category": "Home",
+        "price": 2499,
+        "description": "A hand-glazed terracotta base paired with a natural linen shade, casting the kind of warm light that makes a room feel finished.",
+        "highlights": [
+          "Hand-glazed ceramic base",
+          "Natural linen shade",
+          "In-line dimmer switch",
+          "E27 bulb included"
+        ],
+        "images": [
+          "/images/products/lamp-ceramic-terracotta.jpg"
+        ],
+        "stock": 19,
+        "rating": 4.6,
+        "reviewCount": 2,
+        "isBestSeller": true
+      },
+      {
+        "id": "prod-pourover-coffee-set",
+        "name": "Pour & Co. Coffee Set",
+        "brand": "NextGenify Home",
+        "category": "Home",
+        "price": 1899,
+        "description": "Borosilicate glass carafe with a light-wood collar and matching dripper \u2014 everything you need for a slower, better morning.",
+        "highlights": [
+          "Heat-resistant borosilicate glass",
+          "FSC-certified wood collar",
+          "600ml capacity",
+          "Dishwasher safe"
+        ],
+        "images": [
+          "/images/products/pourover-coffee-set.jpg"
+        ],
+        "stock": 26,
+        "rating": 4.8,
+        "reviewCount": 2,
+        "isNew": true
+      },
+      {
+        "id": "prod-basket-woven-set",
+        "name": "Reed Woven Basket Trio",
+        "brand": "NextGenify Home",
+        "category": "Home",
+        "price": 2299,
+        "description": "Three hand-woven seagrass baskets that nest for storage and stack beautifully for display. Sustainably sourced.",
+        "highlights": [
+          "Hand-woven seagrass",
+          "Nesting set of 3",
+          "Reinforced base",
+          "Sustainably sourced fiber"
+        ],
+        "images": [
+          "/images/products/basket-woven-set.jpg"
+        ],
+        "stock": 21,
+        "rating": 4.5,
+        "reviewCount": 1
+      },
+      {
+        "id": "prod-perfume-amber",
+        "name": "Amber Bloom Eau de Parfum",
+        "brand": "NextGenify Beauty",
+        "category": "Beauty",
+        "price": 2999,
+        "description": "A warm, woody fragrance built around amber and sandalwood with a soft floral top note. Long-lasting without being loud.",
+        "highlights": [
+          "50ml eau de parfum",
+          "Amber & sandalwood base",
+          "8-10 hour longevity",
+          "Cruelty-free"
+        ],
+        "images": [
+          "/images/products/perfume-amber.jpg"
+        ],
+        "stock": 33,
+        "rating": 4.7,
+        "reviewCount": 2,
+        "featured": false,
+        "isBestSeller": true
+      },
+      {
+        "id": "prod-skincare-set",
+        "name": "Bare Ritual Skincare Trio",
+        "brand": "NextGenify Beauty",
+        "category": "Beauty",
+        "price": 2499,
+        "description": "A cleanser, serum and moisturizer designed to work together as a simple three-step routine. Fragrance-free and dermatologist-tested.",
+        "highlights": [
+          "Cleanser, serum & moisturizer",
+          "Fragrance-free",
+          "Dermatologist-tested",
+          "Vegan formula"
+        ],
+        "images": [
+          "/images/products/skincare-set.jpg"
+        ],
+        "stock": 29,
+        "rating": 4.6,
+        "reviewCount": 2,
+        "isNew": true
+      },
+      {
+        "id": "prod-sunglasses-tortoise",
+        "name": "Horizon Tortoise Sunglasses",
+        "brand": "NextGenify",
+        "category": "Fashion",
+        "price": 1799,
+        "description": "Polarized lenses in a classic tortoiseshell acetate frame \u2014 cuts glare without cutting corners.",
+        "highlights": [
+          "Polarized UV400 lenses",
+          "Tortoiseshell acetate frame",
+          "Spring hinges",
+          "Includes soft pouch"
+        ],
+        "images": [
+          "/images/products/sunglasses-tortoise.jpg"
+        ],
+        "stock": 37,
+        "rating": 4.4,
+        "reviewCount": 1
+      },
+      {
+        "id": "prod-dumbbell-set",
+        "name": "Flex Grip Dumbbell Set",
+        "brand": "NextGenify Sport",
+        "category": "Sports",
+        "price": 4299,
+        "compareAtPrice": 4999,
+        "description": "An adjustable dumbbell set with a matte grip coating and a compact rack \u2014 everything you need for a home strength session.",
+        "highlights": [
+          "Adjustable 2.5\u201324kg",
+          "Matte non-slip coating",
+          "Compact locking rack",
+          "Quiet quick-change dial"
+        ],
+        "images": [
+          "/images/products/dumbbell-set.jpg"
+        ],
+        "stock": 12,
+        "rating": 4.6,
+        "reviewCount": 1,
+        "isNew": true
+      },
+      {
+        "id": "prod-suitcase-travel",
+        "name": "Voyager Carry-On Suitcase",
+        "brand": "NextGenify Travel",
+        "category": "Travel",
+        "price": 5499,
+        "description": "A hardshell carry-on with a brushed-metal frame and a whisper-quiet spinner wheel set, built for gate-to-gate ease.",
+        "highlights": [
+          "Polycarbonate hardshell",
+          "360\u00b0 spinner wheels",
+          "TSA-approved lock",
+          "Expandable +15% capacity"
+        ],
+        "images": [
+          "/images/products/suitcase-travel.jpg"
+        ],
+        "stock": 14,
+        "rating": 4.5,
+        "reviewCount": 1,
+        "isNew": true,
+        "isBestSeller": true
+      },
+      {
+        "id": "prod-shoes-trail-runner",
+        "name": "Momentum Trail Runners",
+        "brand": "NextGenify",
+        "category": "Shoes",
+        "subcategory": "Running",
+        "price": 6499,
+        "compareAtPrice": 7999,
+        "description": "Lightweight trail runners built for grip and long-distance comfort, with a responsive foam midsole and a breathable engineered mesh upper.",
+        "highlights": [
+          "Grippy lugged outsole",
+          "Responsive foam midsole",
+          "Breathable engineered mesh",
+          "Reflective trims for low light"
+        ],
+        "images": [
+          "/images/products/shoes-trail-runner.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Ember",
+            "hex": "#c65c2e"
+          },
+          {
+            "name": "Graphite",
+            "hex": "#2b2b2b"
+          }
+        ],
+        "sizes": [
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10",
+          "UK 11"
+        ],
+        "tags": [
+          "running",
+          "trail",
+          "outdoor"
+        ],
+        "stock": 34,
+        "rating": 4.6,
+        "reviewCount": 5,
+        "isNew": true
+      },
+      {
+        "id": "prod-shoes-leather-loafer",
+        "name": "Glide Leather Loafers",
+        "brand": "NextGenify",
+        "category": "Shoes",
+        "subcategory": "Formal",
+        "price": 5299,
+        "description": "Hand-finished leather loafers with a cushioned footbed, cut for a sleek silhouette that moves easily from the office to dinner.",
+        "highlights": [
+          "Full-grain leather upper",
+          "Cushioned footbed",
+          "Leather sole with rubber grip",
+          "Hand-stitched detailing"
+        ],
+        "images": [
+          "/images/products/shoes-leather-loafer.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Cognac",
+            "hex": "#8a4a2a"
+          },
+          {
+            "name": "Black",
+            "hex": "#1a1a1a"
+          }
+        ],
+        "sizes": [
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10",
+          "UK 11"
+        ],
+        "tags": [
+          "formal",
+          "leather"
+        ],
+        "stock": 22,
+        "rating": 4.5,
+        "reviewCount": 4
+      },
+      {
+        "id": "prod-shoes-high-top",
+        "name": "Apex High-Top Sneakers",
+        "brand": "NextGenify",
+        "category": "Shoes",
+        "subcategory": "Streetwear",
+        "price": 5999,
+        "compareAtPrice": 6999,
+        "description": "Bold high-top sneakers with a padded collar and a durable rubber cupsole, made for everyday street style.",
+        "highlights": [
+          "Padded ankle collar",
+          "Durable rubber cupsole",
+          "Reinforced toe cap",
+          "Signature side stripe"
+        ],
+        "images": [
+          "/images/products/shoes-high-top.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Chalk",
+            "hex": "#f2f0ec"
+          },
+          {
+            "name": "Crimson",
+            "hex": "#a1273b"
+          }
+        ],
+        "sizes": [
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10",
+          "UK 11"
+        ],
+        "tags": [
+          "streetwear",
+          "sneakers"
+        ],
+        "stock": 28,
+        "rating": 4.7,
+        "reviewCount": 6,
+        "isBestSeller": true
+      },
+      {
+        "id": "prod-shoes-hiking-boot",
+        "name": "Terra Hiking Boots",
+        "brand": "NextGenify",
+        "category": "Shoes",
+        "subcategory": "Outdoor",
+        "price": 8499,
+        "description": "Waterproof hiking boots with ankle support and an aggressive tread, engineered for long treks over rough terrain.",
+        "highlights": [
+          "Waterproof membrane",
+          "Ankle support collar",
+          "Aggressive multi-terrain tread",
+          "Reinforced toe and heel"
+        ],
+        "images": [
+          "/images/products/shoes-hiking-boot.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Umber",
+            "hex": "#5b3a29"
+          }
+        ],
+        "sizes": [
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10",
+          "UK 11"
+        ],
+        "tags": [
+          "hiking",
+          "outdoor",
+          "waterproof"
+        ],
+        "stock": 19,
+        "rating": 4.8,
+        "reviewCount": 7
+      },
+      {
+        "id": "prod-watch-meridian-automatic",
+        "name": "Meridian Automatic Watch",
+        "brand": "NextGenify",
+        "category": "Watches",
+        "subcategory": "Automatic",
+        "price": 18999,
+        "compareAtPrice": 22999,
+        "description": "A self-winding automatic watch with a sunburst silver dial and a sapphire crystal, built on a stainless steel case.",
+        "highlights": [
+          "Automatic self-winding movement",
+          "Sapphire crystal glass",
+          "100m water resistance",
+          "Stainless steel bracelet"
+        ],
+        "images": [
+          "/images/products/watch-meridian-automatic.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Silver",
+            "hex": "#c7c9cc"
+          }
+        ],
+        "specifications": {
+          "Movement": "Automatic",
+          "Case size": "40mm",
+          "Water resistance": "100m",
+          "Strap": "Stainless steel"
+        },
+        "tags": [
+          "automatic",
+          "luxury"
+        ],
+        "stock": 12,
+        "rating": 4.8,
+        "reviewCount": 5,
+        "featured": true
+      },
+      {
+        "id": "prod-watch-aria-rose-gold",
+        "name": "Aria Rose Gold Watch",
+        "brand": "NextGenify",
+        "category": "Watches",
+        "subcategory": "Dress",
+        "price": 13499,
+        "description": "A refined dress watch with a rose gold case, mother-of-pearl dial, and a slim profile that sits elegantly on the wrist.",
+        "highlights": [
+          "Rose gold-plated case",
+          "Mother-of-pearl dial",
+          "Slim 8mm profile",
+          "Genuine leather strap"
+        ],
+        "images": [
+          "/images/products/watch-aria-rose-gold.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Rose Gold",
+            "hex": "#d8a892"
+          }
+        ],
+        "specifications": {
+          "Movement": "Quartz",
+          "Case size": "32mm",
+          "Water resistance": "30m",
+          "Strap": "Leather"
+        },
+        "tags": [
+          "dress",
+          "women"
+        ],
+        "stock": 16,
+        "rating": 4.7,
+        "reviewCount": 4,
+        "isNew": true
+      },
+      {
+        "id": "prod-watch-voltage-digital",
+        "name": "Voltage Digital Sports Watch",
+        "brand": "NextGenify",
+        "category": "Watches",
+        "subcategory": "Sport",
+        "price": 6999,
+        "description": "A rugged digital sports watch with a backlit display, stopwatch, and shock-resistant casing for training and travel.",
+        "highlights": [
+          "Shock-resistant casing",
+          "Backlit digital display",
+          "100m water resistance",
+          "Multi-mode stopwatch"
+        ],
+        "images": [
+          "/images/products/watch-voltage-digital.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "#191919"
+          }
+        ],
+        "specifications": {
+          "Movement": "Digital",
+          "Case size": "44mm",
+          "Water resistance": "100m",
+          "Strap": "Silicone"
+        },
+        "tags": [
+          "sport",
+          "digital"
+        ],
+        "stock": 27,
+        "rating": 4.5,
+        "reviewCount": 6
+      },
+      {
+        "id": "prod-watch-heritage-chronograph",
+        "name": "Heritage Chronograph",
+        "brand": "NextGenify",
+        "category": "Watches",
+        "subcategory": "Chronograph",
+        "price": 15999,
+        "compareAtPrice": 18499,
+        "description": "A classic chronograph with a cream dial, tachymeter bezel, and a hand-stitched leather strap for a heritage feel.",
+        "highlights": [
+          "Tachymeter bezel",
+          "Chronograph sub-dials",
+          "Hand-stitched leather strap",
+          "Sapphire-coated crystal"
+        ],
+        "images": [
+          "/images/products/watch-heritage-chronograph.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Cognac",
+            "hex": "#8a4a2a"
+          }
+        ],
+        "specifications": {
+          "Movement": "Quartz chronograph",
+          "Case size": "42mm",
+          "Water resistance": "50m",
+          "Strap": "Leather"
+        },
+        "tags": [
+          "chronograph",
+          "heritage"
+        ],
+        "stock": 14,
+        "rating": 4.6,
+        "reviewCount": 3,
+        "isBestSeller": true
+      },
+      {
+        "id": "prod-sports-yoga-mat",
+        "name": "Pulse Yoga Mat Pro",
+        "brand": "NextGenify",
+        "category": "Sports",
+        "subcategory": "Yoga",
+        "price": 2499,
+        "description": "A dense, non-slip yoga mat with cushioned support for joints and a textured surface that grips through every pose.",
+        "highlights": [
+          "6mm cushioned support",
+          "Non-slip textured surface",
+          "Sweat-resistant coating",
+          "Includes carry strap"
+        ],
+        "images": [
+          "/images/products/sports-yoga-mat.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Slate",
+            "hex": "#4a4f57"
+          }
+        ],
+        "tags": [
+          "yoga",
+          "fitness"
+        ],
+        "stock": 40,
+        "rating": 4.6,
+        "reviewCount": 5,
+        "isNew": true
+      },
+      {
+        "id": "prod-sports-boxing-gloves",
+        "name": "StrikeForce Boxing Gloves",
+        "brand": "NextGenify",
+        "category": "Sports",
+        "subcategory": "Combat",
+        "price": 3299,
+        "description": "Hand-stitched boxing gloves with layered foam padding and a secure wrist strap, built for serious training sessions.",
+        "highlights": [
+          "Layered foam padding",
+          "Secure wrist strap",
+          "Breathable palm mesh",
+          "Reinforced stitching"
+        ],
+        "images": [
+          "/images/products/sports-boxing-gloves.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Crimson",
+            "hex": "#a1273b"
+          }
+        ],
+        "sizes": [
+          "10oz",
+          "12oz",
+          "14oz",
+          "16oz"
+        ],
+        "tags": [
+          "boxing",
+          "combat"
+        ],
+        "stock": 23,
+        "rating": 4.7,
+        "reviewCount": 4
+      },
+      {
+        "id": "prod-sports-trekking-poles",
+        "name": "Summit Trekking Poles",
+        "brand": "NextGenify",
+        "category": "Sports",
+        "subcategory": "Outdoor",
+        "price": 2899,
+        "description": "Adjustable aluminum trekking poles with cork grips and quick-lock joints, built to steady every climb and descent.",
+        "highlights": [
+          "Quick-lock height adjustment",
+          "Cork grip handles",
+          "Lightweight aluminum shaft",
+          "Includes carry pouch"
+        ],
+        "images": [
+          "/images/products/sports-trekking-poles.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Graphite",
+            "hex": "#2b2b2b"
+          }
+        ],
+        "tags": [
+          "hiking",
+          "trekking"
+        ],
+        "stock": 31,
+        "rating": 4.5,
+        "reviewCount": 3
+      },
+      {
+        "id": "prod-sports-resistance-bands",
+        "name": "AeroFit Resistance Bands Kit",
+        "brand": "NextGenify",
+        "category": "Sports",
+        "subcategory": "Home Gym",
+        "price": 1799,
+        "description": "A five-band resistance kit spanning light to heavy tension, complete with door anchor and handles for a full home workout.",
+        "highlights": [
+          "5 resistance levels",
+          "Door anchor included",
+          "Padded foam handles",
+          "Compact travel pouch"
+        ],
+        "images": [
+          "/images/products/sports-resistance-bands.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Multi",
+            "hex": "#c65c2e"
+          }
+        ],
+        "tags": [
+          "home gym",
+          "resistance"
+        ],
+        "stock": 52,
+        "rating": 4.4,
+        "reviewCount": 6,
+        "isBestSeller": true
+      },
+      {
+        "id": "prod-travel-weekender-duffel",
+        "name": "Nomad Weekender Duffel",
+        "brand": "NextGenify",
+        "category": "Travel",
+        "subcategory": "Bags",
+        "price": 4999,
+        "compareAtPrice": 5999,
+        "description": "A canvas-and-leather weekender duffel with a spacious main compartment and a padded shoulder strap for easy carry.",
+        "highlights": [
+          "Canvas and leather construction",
+          "Padded adjustable shoulder strap",
+          "Interior zip pocket",
+          "Reinforced base"
+        ],
+        "images": [
+          "/images/products/travel-weekender-duffel.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Tan",
+            "hex": "#c9a67a"
+          }
+        ],
+        "tags": [
+          "weekender",
+          "duffel"
+        ],
+        "stock": 21,
+        "rating": 4.6,
+        "reviewCount": 4,
+        "isNew": true
+      },
+      {
+        "id": "prod-travel-backpack",
+        "name": "Horizon Travel Backpack",
+        "brand": "NextGenify",
+        "category": "Travel",
+        "subcategory": "Bags",
+        "price": 5499,
+        "description": "A minimalist travel backpack with a padded laptop sleeve and a hidden anti-theft pocket, built for the modern commute.",
+        "highlights": [
+          "Padded 15-inch laptop sleeve",
+          "Hidden anti-theft pocket",
+          "Water-resistant fabric",
+          "Ergonomic back panel"
+        ],
+        "images": [
+          "/images/products/travel-backpack.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Charcoal",
+            "hex": "#3a3d42"
+          }
+        ],
+        "tags": [
+          "backpack",
+          "commute"
+        ],
+        "stock": 29,
+        "rating": 4.7,
+        "reviewCount": 5,
+        "isBestSeller": true
+      },
+      {
+        "id": "prod-travel-packing-cubes",
+        "name": "Compact Packing Cube Set",
+        "brand": "NextGenify",
+        "category": "Travel",
+        "subcategory": "Accessories",
+        "price": 1599,
+        "description": "A set of six mesh-top packing cubes in graduated sizes, keeping every trip organized from carry-on to checked bag.",
+        "highlights": [
+          "Set of 6 graduated sizes",
+          "Breathable mesh top",
+          "Double-zip closure",
+          "Compression design"
+        ],
+        "images": [
+          "/images/products/travel-packing-cubes.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Multi",
+            "hex": "#4a90a4"
+          }
+        ],
+        "tags": [
+          "organization",
+          "packing"
+        ],
+        "stock": 44,
+        "rating": 4.5,
+        "reviewCount": 3
+      },
+      {
+        "id": "prod-travel-neck-pillow",
+        "name": "Drift Neck Pillow & Sleep Kit",
+        "brand": "NextGenify",
+        "category": "Travel",
+        "subcategory": "Accessories",
+        "price": 1299,
+        "description": "A memory-foam neck pillow paired with an eye mask and earplugs, packed into a compact travel pouch for long journeys.",
+        "highlights": [
+          "Memory-foam support",
+          "Includes eye mask and earplugs",
+          "Compact travel pouch",
+          "Machine-washable cover"
+        ],
+        "images": [
+          "/images/products/travel-neck-pillow.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Grey",
+            "hex": "#8b8f94"
+          }
+        ],
+        "tags": [
+          "sleep",
+          "comfort"
+        ],
+        "stock": 38,
+        "rating": 4.4,
+        "reviewCount": 4
+      },
+      {
+        "id": "prod-electronics-earbuds",
+        "name": "Pulse Wireless Earbuds",
+        "brand": "NextGenify",
+        "category": "Electronics",
+        "subcategory": "Audio",
+        "price": 3999,
+        "compareAtPrice": 4999,
+        "description": "True wireless earbuds with active noise cancellation and a compact charging case for all-day listening.",
+        "highlights": [
+          "Active noise cancellation",
+          "28-hour total battery",
+          "IPX4 sweat resistance",
+          "Touch controls"
+        ],
+        "images": [
+          "/images/products/electronics-earbuds.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "#191919"
+          }
+        ],
+        "specifications": {
+          "Battery life": "7h (28h with case)",
+          "Connectivity": "Bluetooth 5.3",
+          "Water resistance": "IPX4"
+        },
+        "tags": [
+          "audio",
+          "wireless"
+        ],
+        "stock": 45,
+        "rating": 4.6,
+        "reviewCount": 8,
+        "isBestSeller": true
+      },
+      {
+        "id": "prod-electronics-tablet",
+        "name": "Quantum Tablet Pro",
+        "brand": "NextGenify",
+        "category": "Electronics",
+        "subcategory": "Computing",
+        "price": 32999,
+        "compareAtPrice": 36999,
+        "description": "A slim, high-resolution tablet with an all-day battery and a stylus-ready display for work and creativity on the move.",
+        "highlights": [
+          "11-inch high-resolution display",
+          "All-day battery life",
+          "Stylus-ready touchscreen",
+          "Ultra-slim aluminum body"
+        ],
+        "images": [
+          "/images/products/electronics-tablet.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Graphite",
+            "hex": "#2b2b2b"
+          },
+          {
+            "name": "Silver",
+            "hex": "#c7c9cc"
+          }
+        ],
+        "specifications": {
+          "Display": "11-inch, 2560x1600",
+          "Storage": "256GB",
+          "Battery": "Up to 12 hours"
+        },
+        "tags": [
+          "tablet",
+          "computing"
+        ],
+        "stock": 17,
+        "rating": 4.7,
+        "reviewCount": 5,
+        "featured": true
+      },
+      {
+        "id": "prod-beauty-lipstick-trio",
+        "name": "Velvet Matte Lipstick Trio",
+        "brand": "NextGenify",
+        "category": "Beauty",
+        "subcategory": "Makeup",
+        "price": 1899,
+        "description": "Three long-wear matte lipstick shades in mauve, rose, and berry, formulated with a nourishing, non-drying base.",
+        "highlights": [
+          "Long-wear matte finish",
+          "Nourishing, non-drying formula",
+          "3 versatile everyday shades",
+          "Cruelty-free"
+        ],
+        "images": [
+          "/images/products/beauty-lipstick-trio.jpg"
+        ],
+        "colors": [
+          {
+            "name": "Mauve",
+            "hex": "#a8768a"
+          },
+          {
+            "name": "Rose",
+            "hex": "#c17c8a"
+          },
+          {
+            "name": "Berry",
+            "hex": "#7a2f45"
+          }
+        ],
+        "tags": [
+          "makeup",
+          "lipstick"
+        ],
+        "stock": 36,
+        "rating": 4.5,
+        "reviewCount": 6
+      },
+      {
+        "id": "prod-beauty-vitamin-c-serum",
+        "name": "Radiance Vitamin C Serum",
+        "brand": "NextGenify",
+        "category": "Beauty",
+        "subcategory": "Skincare",
+        "price": 2299,
+        "compareAtPrice": 2799,
+        "description": "A brightening vitamin C serum with hyaluronic acid, formulated to even skin tone and boost radiance over time.",
+        "highlights": [
+          "10% stabilized vitamin C",
+          "Hyaluronic acid for hydration",
+          "Lightweight, fast-absorbing",
+          "Suitable for daily use"
+        ],
+        "images": [
+          "/images/products/beauty-vitamin-c-serum.jpg"
+        ],
+        "tags": [
+          "skincare",
+          "serum"
+        ],
+        "stock": 41,
+        "rating": 4.7,
+        "reviewCount": 7,
+        "isNew": true
+      }
+    ],
+    "reviews": [
+      {
+        "id": "rev-1",
+        "productId": "prod-headphones-noir",
+        "author": "Ishaan",
+        "rating": 5,
+        "comment": "Bass is deep without drowning out vocals. Comfortable for 4+ hour sessions.",
+        "date": "2026-08-14"
+      },
+      {
+        "id": "rev-2",
+        "productId": "prod-headphones-noir",
+        "author": "Meera",
+        "rating": 5,
+        "comment": "The noise cancellation is genuinely great on flights.",
+        "date": "2026-08-02"
+      },
+      {
+        "id": "rev-3",
+        "productId": "prod-headphones-noir",
+        "author": "Rohan",
+        "rating": 4,
+        "comment": "Great sound, wish the case was a little slimmer.",
+        "date": "2026-07-20"
+      },
+      {
+        "id": "rev-4",
+        "productId": "prod-smartwatch-pulse",
+        "author": "Ananya",
+        "rating": 5,
+        "comment": "Battery genuinely lasts a week. Sleep tracking is accurate.",
+        "date": "2026-08-10"
+      },
+      {
+        "id": "rev-5",
+        "productId": "prod-smartwatch-pulse",
+        "author": "Vikram",
+        "rating": 4,
+        "comment": "Solid watch, the app could be a bit faster.",
+        "date": "2026-07-28"
+      },
+      {
+        "id": "rev-6",
+        "productId": "prod-speaker-sage",
+        "author": "Sana",
+        "rating": 5,
+        "comment": "Took it to the pool all summer, zero issues.",
+        "date": "2026-08-05"
+      },
+      {
+        "id": "rev-7",
+        "productId": "prod-speaker-sage",
+        "author": "Devika",
+        "rating": 4,
+        "comment": "Sounds bigger than it looks.",
+        "date": "2026-07-15"
+      },
+      {
+        "id": "rev-8",
+        "productId": "prod-camera-mirrorless",
+        "author": "Arjun",
+        "rating": 5,
+        "comment": "Colors straight out of camera are gorgeous. Stabilization is a game changer.",
+        "date": "2026-08-18"
+      },
+      {
+        "id": "rev-9",
+        "productId": "prod-camera-mirrorless",
+        "author": "Priya",
+        "rating": 5,
+        "comment": "Compact enough to carry every day, image quality punches above its size.",
+        "date": "2026-08-01"
+      },
+      {
+        "id": "rev-10",
+        "productId": "prod-jacket-bomber-olive",
+        "author": "Karan",
+        "rating": 4,
+        "comment": "Fits true to size, fabric feels durable.",
+        "date": "2026-07-30"
+      },
+      {
+        "id": "rev-11",
+        "productId": "prod-sweater-oversized-cream",
+        "author": "Naina",
+        "rating": 5,
+        "comment": "So soft, and the oversized fit is exactly what I wanted.",
+        "date": "2026-08-09"
+      },
+      {
+        "id": "rev-12",
+        "productId": "prod-sweater-oversized-cream",
+        "author": "Tara",
+        "rating": 4,
+        "comment": "Runs a little large, order one size down.",
+        "date": "2026-07-22"
+      },
+      {
+        "id": "rev-13",
+        "productId": "prod-sneakers-canvas",
+        "author": "Yash",
+        "rating": 5,
+        "comment": "Comfortable out of the box, no break-in needed.",
+        "date": "2026-08-12"
+      },
+      {
+        "id": "rev-14",
+        "productId": "prod-sneakers-canvas",
+        "author": "Diya",
+        "rating": 5,
+        "comment": "The tan sole ages so well, still looks great after months.",
+        "date": "2026-07-25"
+      },
+      {
+        "id": "rev-15",
+        "productId": "prod-sneakers-canvas",
+        "author": "Aditya",
+        "rating": 4,
+        "comment": "Great everyday sneaker, wish there were more colors.",
+        "date": "2026-07-10"
+      },
+      {
+        "id": "rev-16",
+        "productId": "prod-bag-crossbody-tan",
+        "author": "Ritika",
+        "rating": 5,
+        "comment": "Leather feels premium and the strap is genuinely adjustable to any height.",
+        "date": "2026-08-06"
+      },
+      {
+        "id": "rev-17",
+        "productId": "prod-lamp-ceramic-terracotta",
+        "author": "Nikhil",
+        "rating": 5,
+        "comment": "The dimmer makes it perfect for evenings. Glaze color is even better in person.",
+        "date": "2026-08-15"
+      },
+      {
+        "id": "rev-18",
+        "productId": "prod-lamp-ceramic-terracotta",
+        "author": "Simran",
+        "rating": 4,
+        "comment": "Beautiful piece, shade could be slightly larger.",
+        "date": "2026-07-19"
+      },
+      {
+        "id": "rev-19",
+        "productId": "prod-pourover-coffee-set",
+        "author": "Aman",
+        "rating": 5,
+        "comment": "Makes mornings feel intentional. Easy to clean too.",
+        "date": "2026-08-11"
+      },
+      {
+        "id": "rev-20",
+        "productId": "prod-pourover-coffee-set",
+        "author": "Kavya",
+        "rating": 5,
+        "comment": "Gifted this twice already, everyone loves it.",
+        "date": "2026-07-27"
+      },
+      {
+        "id": "rev-21",
+        "productId": "prod-basket-woven-set",
+        "author": "Farah",
+        "rating": 4,
+        "comment": "Nesting sizes are handy, sturdier than expected.",
+        "date": "2026-08-03"
+      },
+      {
+        "id": "rev-22",
+        "productId": "prod-perfume-amber",
+        "author": "Pooja",
+        "rating": 5,
+        "comment": "Lasts the whole day and doesn't overwhelm a room.",
+        "date": "2026-08-16"
+      },
+      {
+        "id": "rev-23",
+        "productId": "prod-perfume-amber",
+        "author": "Zoya",
+        "rating": 4,
+        "comment": "Warm, cozy scent \u2014 perfect for winter.",
+        "date": "2026-07-21"
+      },
+      {
+        "id": "rev-24",
+        "productId": "prod-skincare-set",
+        "author": "Aisha",
+        "rating": 5,
+        "comment": "No breakouts, no fragrance sting. Exactly what my skin needed.",
+        "date": "2026-08-08"
+      },
+      {
+        "id": "rev-25",
+        "productId": "prod-skincare-set",
+        "author": "Reyansh",
+        "rating": 4,
+        "comment": "Simple routine, noticeable difference in two weeks.",
+        "date": "2026-07-17"
+      },
+      {
+        "id": "rev-26",
+        "productId": "prod-sunglasses-tortoise",
+        "author": "Om",
+        "rating": 4,
+        "comment": "Good polarization, frame feels sturdy.",
+        "date": "2026-07-31"
+      },
+      {
+        "id": "rev-27",
+        "productId": "prod-dumbbell-set",
+        "author": "Rahul",
+        "rating": 5,
+        "comment": "Quick-change dial is genuinely quiet, great for apartments.",
+        "date": "2026-08-19"
+      },
+      {
+        "id": "rev-28",
+        "productId": "prod-suitcase-travel",
+        "author": "Neha",
+        "rating": 4,
+        "comment": "Wheels are smooth, held up fine on two flights already.",
+        "date": "2026-08-13"
+      },
+      {
+        "id": "rev-29",
+        "productId": "prod-shoes-trail-runner",
+        "author": "Neha",
+        "rating": 5,
+        "comment": "Great grip on wet trails, true to size.",
+        "date": "2026-07-18"
+      },
+      {
+        "id": "rev-30",
+        "productId": "prod-shoes-trail-runner",
+        "author": "Vikram",
+        "rating": 4,
+        "comment": "Lightweight and breathable, my go-to for weekend runs.",
+        "date": "2026-09-14"
+      },
+      {
+        "id": "rev-31",
+        "productId": "prod-shoes-trail-runner",
+        "author": "Kavya",
+        "rating": 5,
+        "comment": "Cushioning held up well after 100+ km.",
+        "date": "2026-07-12"
+      },
+      {
+        "id": "rev-32",
+        "productId": "prod-shoes-trail-runner",
+        "author": "Ananya",
+        "rating": 5,
+        "comment": "Bought a size up per the guide and it fit perfectly.",
+        "date": "2026-08-02"
+      },
+      {
+        "id": "rev-33",
+        "productId": "prod-shoes-trail-runner",
+        "author": "Simran",
+        "rating": 4,
+        "comment": "Durable outsole, no wear after months of use.",
+        "date": "2026-09-21"
+      },
+      {
+        "id": "rev-34",
+        "productId": "prod-shoes-leather-loafer",
+        "author": "Neha",
+        "rating": 5,
+        "comment": "Buttery soft leather, broke in within a week.",
+        "date": "2026-07-16"
+      },
+      {
+        "id": "rev-35",
+        "productId": "prod-shoes-leather-loafer",
+        "author": "Nikhil",
+        "rating": 4,
+        "comment": "Classy enough for the office, comfy enough for all day.",
+        "date": "2026-08-31"
+      },
+      {
+        "id": "rev-36",
+        "productId": "prod-shoes-leather-loafer",
+        "author": "Isha",
+        "rating": 4,
+        "comment": "The stitching is neat and the sole doesn't slip.",
+        "date": "2026-07-04"
+      },
+      {
+        "id": "rev-37",
+        "productId": "prod-shoes-leather-loafer",
+        "author": "Ishaan",
+        "rating": 5,
+        "comment": "A bit narrow at first but stretched out nicely.",
+        "date": "2026-07-18"
+      },
+      {
+        "id": "rev-38",
+        "productId": "prod-shoes-high-top",
+        "author": "Ishaan",
+        "rating": 4,
+        "comment": "Ankle support is excellent for pickup games.",
+        "date": "2026-09-06"
+      },
+      {
+        "id": "rev-39",
+        "productId": "prod-shoes-high-top",
+        "author": "Priya",
+        "rating": 5,
+        "comment": "Looks even better in person, great colourway.",
+        "date": "2026-08-29"
+      },
+      {
+        "id": "rev-40",
+        "productId": "prod-shoes-high-top",
+        "author": "Yash",
+        "rating": 5,
+        "comment": "Sole grip is solid on indoor courts.",
+        "date": "2026-08-13"
+      },
+      {
+        "id": "rev-41",
+        "productId": "prod-shoes-high-top",
+        "author": "Pooja",
+        "rating": 5,
+        "comment": "Sized up half a size, fits great now.",
+        "date": "2026-09-12"
+      },
+      {
+        "id": "rev-42",
+        "productId": "prod-shoes-high-top",
+        "author": "Arjun",
+        "rating": 5,
+        "comment": "Comfortable from the first wear, no break-in needed.",
+        "date": "2026-09-14"
+      },
+      {
+        "id": "rev-43",
+        "productId": "prod-shoes-high-top",
+        "author": "Karan",
+        "rating": 5,
+        "comment": "Sturdy build, holding up well after regular use.",
+        "date": "2026-08-08"
+      },
+      {
+        "id": "rev-44",
+        "productId": "prod-shoes-hiking-boot",
+        "author": "Ritu",
+        "rating": 5,
+        "comment": "Kept my feet dry through a full day of rain.",
+        "date": "2026-07-14"
+      },
+      {
+        "id": "rev-45",
+        "productId": "prod-shoes-hiking-boot",
+        "author": "Ananya",
+        "rating": 5,
+        "comment": "Ankle support made a big difference on rocky trails.",
+        "date": "2026-09-01"
+      },
+      {
+        "id": "rev-46",
+        "productId": "prod-shoes-hiking-boot",
+        "author": "Rahul",
+        "rating": 5,
+        "comment": "Broke in faster than expected, very comfortable.",
+        "date": "2026-09-17"
+      },
+      {
+        "id": "rev-47",
+        "productId": "prod-shoes-hiking-boot",
+        "author": "Rohan",
+        "rating": 5,
+        "comment": "Grippy soles, didn't slip once on loose gravel.",
+        "date": "2026-09-20"
+      },
+      {
+        "id": "rev-48",
+        "productId": "prod-shoes-hiking-boot",
+        "author": "Manav",
+        "rating": 5,
+        "comment": "Warm enough for early morning cold starts.",
+        "date": "2026-07-03"
+      },
+      {
+        "id": "rev-49",
+        "productId": "prod-shoes-hiking-boot",
+        "author": "Sanya",
+        "rating": 5,
+        "comment": "Solid boots, worth the price for serious hikes.",
+        "date": "2026-08-27"
+      },
+      {
+        "id": "rev-50",
+        "productId": "prod-shoes-hiking-boot",
+        "author": "Divya",
+        "rating": 4,
+        "comment": "Waterproofing has held up after several washes.",
+        "date": "2026-08-19"
+      },
+      {
+        "id": "rev-51",
+        "productId": "prod-watch-meridian-automatic",
+        "author": "Karan",
+        "rating": 5,
+        "comment": "The movement is smooth and keeps great time.",
+        "date": "2026-08-09"
+      },
+      {
+        "id": "rev-52",
+        "productId": "prod-watch-meridian-automatic",
+        "author": "Siddharth",
+        "rating": 5,
+        "comment": "Feels premium on the wrist, great weight balance.",
+        "date": "2026-08-11"
+      },
+      {
+        "id": "rev-53",
+        "productId": "prod-watch-meridian-automatic",
+        "author": "Aman",
+        "rating": 5,
+        "comment": "Automatic winding works well with daily wear.",
+        "date": "2026-08-30"
+      },
+      {
+        "id": "rev-54",
+        "productId": "prod-watch-meridian-automatic",
+        "author": "Divya",
+        "rating": 5,
+        "comment": "Classic design that pairs with everything.",
+        "date": "2026-07-02"
+      },
+      {
+        "id": "rev-55",
+        "productId": "prod-watch-meridian-automatic",
+        "author": "Priya",
+        "rating": 4,
+        "comment": "Exceeded expectations for this price range.",
+        "date": "2026-08-22"
+      },
+      {
+        "id": "rev-56",
+        "productId": "prod-watch-aria-rose-gold",
+        "author": "Ritu",
+        "rating": 5,
+        "comment": "Elegant and lightweight, perfect for everyday wear.",
+        "date": "2026-07-28"
+      },
+      {
+        "id": "rev-57",
+        "productId": "prod-watch-aria-rose-gold",
+        "author": "Kavya",
+        "rating": 5,
+        "comment": "The rose gold finish hasn't faded after months.",
+        "date": "2026-08-08"
+      },
+      {
+        "id": "rev-58",
+        "productId": "prod-watch-aria-rose-gold",
+        "author": "Neha",
+        "rating": 5,
+        "comment": "Gets compliments every time I wear it.",
+        "date": "2026-08-22"
+      },
+      {
+        "id": "rev-59",
+        "productId": "prod-watch-aria-rose-gold",
+        "author": "Priya",
+        "rating": 4,
+        "comment": "Strap is comfortable and adjusts easily.",
+        "date": "2026-07-06"
+      },
+      {
+        "id": "rev-60",
+        "productId": "prod-watch-voltage-digital",
+        "author": "Manav",
+        "rating": 5,
+        "comment": "Tracks my runs accurately, battery lasts weeks.",
+        "date": "2026-08-22"
+      },
+      {
+        "id": "rev-61",
+        "productId": "prod-watch-voltage-digital",
+        "author": "Meera",
+        "rating": 4,
+        "comment": "Tough build, survived a few drops already.",
+        "date": "2026-09-17"
+      },
+      {
+        "id": "rev-62",
+        "productId": "prod-watch-voltage-digital",
+        "author": "Neha",
+        "rating": 5,
+        "comment": "Backlight is bright enough for night runs.",
+        "date": "2026-08-29"
+      },
+      {
+        "id": "rev-63",
+        "productId": "prod-watch-voltage-digital",
+        "author": "Kavya",
+        "rating": 5,
+        "comment": "Great value for a sports watch.",
+        "date": "2026-07-15"
+      },
+      {
+        "id": "rev-64",
+        "productId": "prod-watch-voltage-digital",
+        "author": "Arjun",
+        "rating": 4,
+        "comment": "Water resistant as advertised, wore it swimming.",
+        "date": "2026-08-16"
+      },
+      {
+        "id": "rev-65",
+        "productId": "prod-watch-voltage-digital",
+        "author": "Rahul",
+        "rating": 4,
+        "comment": "Simple interface, easy to navigate menus.",
+        "date": "2026-08-29"
+      },
+      {
+        "id": "rev-66",
+        "productId": "prod-watch-heritage-chronograph",
+        "author": "Rahul",
+        "rating": 4,
+        "comment": "Timeless design, feels substantial without being heavy.",
+        "date": "2026-09-07"
+      },
+      {
+        "id": "rev-67",
+        "productId": "prod-watch-heritage-chronograph",
+        "author": "Aman",
+        "rating": 5,
+        "comment": "The chronograph function is smooth and precise.",
+        "date": "2026-08-23"
+      },
+      {
+        "id": "rev-68",
+        "productId": "prod-watch-heritage-chronograph",
+        "author": "Siddharth",
+        "rating": 5,
+        "comment": "Leather strap is high quality, ages nicely.",
+        "date": "2026-09-08"
+      },
+      {
+        "id": "rev-69",
+        "productId": "prod-sports-yoga-mat",
+        "author": "Varun",
+        "rating": 4,
+        "comment": "Great grip even during sweaty sessions.",
+        "date": "2026-07-22"
+      },
+      {
+        "id": "rev-70",
+        "productId": "prod-sports-yoga-mat",
+        "author": "Rahul",
+        "rating": 5,
+        "comment": "Thick enough to cushion knees on hard floors.",
+        "date": "2026-07-24"
+      },
+      {
+        "id": "rev-71",
+        "productId": "prod-sports-yoga-mat",
+        "author": "Divya",
+        "rating": 5,
+        "comment": "Doesn't slide on my hardwood floor at all.",
+        "date": "2026-09-14"
+      },
+      {
+        "id": "rev-72",
+        "productId": "prod-sports-yoga-mat",
+        "author": "Neha",
+        "rating": 5,
+        "comment": "Cleans up easily after every workout.",
+        "date": "2026-09-19"
+      },
+      {
+        "id": "rev-73",
+        "productId": "prod-sports-yoga-mat",
+        "author": "Vikram",
+        "rating": 4,
+        "comment": "Rolls up compactly for travel.",
+        "date": "2026-09-11"
+      },
+      {
+        "id": "rev-74",
+        "productId": "prod-sports-boxing-gloves",
+        "author": "Simran",
+        "rating": 5,
+        "comment": "Padding is solid, hands feel protected on the bag.",
+        "date": "2026-08-07"
+      },
+      {
+        "id": "rev-75",
+        "productId": "prod-sports-boxing-gloves",
+        "author": "Pooja",
+        "rating": 4,
+        "comment": "Good wrist support during heavy bag sessions.",
+        "date": "2026-08-08"
+      },
+      {
+        "id": "rev-76",
+        "productId": "prod-sports-boxing-gloves",
+        "author": "Isha",
+        "rating": 5,
+        "comment": "Broke in quickly, comfortable fit.",
+        "date": "2026-07-11"
+      },
+      {
+        "id": "rev-77",
+        "productId": "prod-sports-boxing-gloves",
+        "author": "Rohan",
+        "rating": 5,
+        "comment": "Great for both sparring and bag work.",
+        "date": "2026-07-28"
+      },
+      {
+        "id": "rev-78",
+        "productId": "prod-sports-trekking-poles",
+        "author": "Ritu",
+        "rating": 5,
+        "comment": "Lightweight but sturdy on steep descents.",
+        "date": "2026-09-11"
+      },
+      {
+        "id": "rev-79",
+        "productId": "prod-sports-trekking-poles",
+        "author": "Ishaan",
+        "rating": 4,
+        "comment": "Locking mechanism holds firm, no slipping.",
+        "date": "2026-07-19"
+      },
+      {
+        "id": "rev-80",
+        "productId": "prod-sports-trekking-poles",
+        "author": "Simran",
+        "rating": 4,
+        "comment": "Collapsed size is great for packing.",
+        "date": "2026-08-22"
+      },
+      {
+        "id": "rev-81",
+        "productId": "prod-sports-resistance-bands",
+        "author": "Priya",
+        "rating": 4,
+        "comment": "Great range of resistance levels for home workouts.",
+        "date": "2026-07-23"
+      },
+      {
+        "id": "rev-82",
+        "productId": "prod-sports-resistance-bands",
+        "author": "Siddharth",
+        "rating": 4,
+        "comment": "Bands haven't lost elasticity after weeks of use.",
+        "date": "2026-09-12"
+      },
+      {
+        "id": "rev-83",
+        "productId": "prod-sports-resistance-bands",
+        "author": "Ishaan",
+        "rating": 5,
+        "comment": "Door anchor works well, very stable.",
+        "date": "2026-07-07"
+      },
+      {
+        "id": "rev-84",
+        "productId": "prod-sports-resistance-bands",
+        "author": "Karan",
+        "rating": 5,
+        "comment": "Compact kit, easy to travel with.",
+        "date": "2026-08-18"
+      },
+      {
+        "id": "rev-85",
+        "productId": "prod-sports-resistance-bands",
+        "author": "Nikhil",
+        "rating": 4,
+        "comment": "Good quality for the price, no snapping issues.",
+        "date": "2026-07-06"
+      },
+      {
+        "id": "rev-86",
+        "productId": "prod-sports-resistance-bands",
+        "author": "Manav",
+        "rating": 4,
+        "comment": "Handles are comfortable even during longer sets.",
+        "date": "2026-07-23"
+      },
+      {
+        "id": "rev-87",
+        "productId": "prod-travel-weekender-duffel",
+        "author": "Manav",
+        "rating": 5,
+        "comment": "Fits perfectly as a carry-on for weekend trips.",
+        "date": "2026-09-25"
+      },
+      {
+        "id": "rev-88",
+        "productId": "prod-travel-weekender-duffel",
+        "author": "Priya",
+        "rating": 5,
+        "comment": "Zippers feel sturdy, no snagging.",
+        "date": "2026-07-11"
+      },
+      {
+        "id": "rev-89",
+        "productId": "prod-travel-weekender-duffel",
+        "author": "Ritu",
+        "rating": 4,
+        "comment": "Held up well through airport handling.",
+        "date": "2026-08-15"
+      },
+      {
+        "id": "rev-90",
+        "productId": "prod-travel-weekender-duffel",
+        "author": "Nikhil",
+        "rating": 5,
+        "comment": "Roomy inside, fits more than expected.",
+        "date": "2026-07-25"
+      },
+      {
+        "id": "rev-91",
+        "productId": "prod-travel-backpack",
+        "author": "Neha",
+        "rating": 5,
+        "comment": "Laptop compartment is padded and well protected.",
+        "date": "2026-07-25"
+      },
+      {
+        "id": "rev-92",
+        "productId": "prod-travel-backpack",
+        "author": "Meera",
+        "rating": 5,
+        "comment": "Comfortable straps even on long airport walks.",
+        "date": "2026-09-17"
+      },
+      {
+        "id": "rev-93",
+        "productId": "prod-travel-backpack",
+        "author": "Varun",
+        "rating": 5,
+        "comment": "Fits under most airline seats easily.",
+        "date": "2026-07-19"
+      },
+      {
+        "id": "rev-94",
+        "productId": "prod-travel-backpack",
+        "author": "Rohan",
+        "rating": 5,
+        "comment": "Water resistant fabric handled light rain well.",
+        "date": "2026-09-09"
+      },
+      {
+        "id": "rev-95",
+        "productId": "prod-travel-backpack",
+        "author": "Kavya",
+        "rating": 4,
+        "comment": "Great organization with all the pockets.",
+        "date": "2026-09-09"
+      },
+      {
+        "id": "rev-96",
+        "productId": "prod-travel-packing-cubes",
+        "author": "Ritu",
+        "rating": 5,
+        "comment": "Made packing so much more organized.",
+        "date": "2026-07-20"
+      },
+      {
+        "id": "rev-97",
+        "productId": "prod-travel-packing-cubes",
+        "author": "Priya",
+        "rating": 4,
+        "comment": "Compression zippers actually save a lot of space.",
+        "date": "2026-07-10"
+      },
+      {
+        "id": "rev-98",
+        "productId": "prod-travel-packing-cubes",
+        "author": "Karan",
+        "rating": 4,
+        "comment": "Durable fabric, no rips after multiple trips.",
+        "date": "2026-08-02"
+      },
+      {
+        "id": "rev-99",
+        "productId": "prod-travel-neck-pillow",
+        "author": "Yash",
+        "rating": 4,
+        "comment": "Actually comfortable enough to sleep on long flights.",
+        "date": "2026-07-04"
+      },
+      {
+        "id": "rev-100",
+        "productId": "prod-travel-neck-pillow",
+        "author": "Sanya",
+        "rating": 5,
+        "comment": "Memory foam holds its shape well.",
+        "date": "2026-08-09"
+      },
+      {
+        "id": "rev-101",
+        "productId": "prod-travel-neck-pillow",
+        "author": "Rahul",
+        "rating": 4,
+        "comment": "Compact pouch makes it easy to pack.",
+        "date": "2026-07-31"
+      },
+      {
+        "id": "rev-102",
+        "productId": "prod-travel-neck-pillow",
+        "author": "Simran",
+        "rating": 4,
+        "comment": "Eye mask blocks light completely.",
+        "date": "2026-07-21"
+      },
+      {
+        "id": "rev-103",
+        "productId": "prod-electronics-earbuds",
+        "author": "Varun",
+        "rating": 4,
+        "comment": "Sound quality is impressive for the price.",
+        "date": "2026-08-27"
+      },
+      {
+        "id": "rev-104",
+        "productId": "prod-electronics-earbuds",
+        "author": "Ritu",
+        "rating": 5,
+        "comment": "Battery lasts through a full workday.",
+        "date": "2026-09-17"
+      },
+      {
+        "id": "rev-105",
+        "productId": "prod-electronics-earbuds",
+        "author": "Neha",
+        "rating": 5,
+        "comment": "Noise isolation is better than expected.",
+        "date": "2026-09-21"
+      },
+      {
+        "id": "rev-106",
+        "productId": "prod-electronics-earbuds",
+        "author": "Manav",
+        "rating": 5,
+        "comment": "Fit securely even during runs.",
+        "date": "2026-08-14"
+      },
+      {
+        "id": "rev-107",
+        "productId": "prod-electronics-earbuds",
+        "author": "Yash",
+        "rating": 5,
+        "comment": "Case charges quickly, very convenient.",
+        "date": "2026-09-16"
+      },
+      {
+        "id": "rev-108",
+        "productId": "prod-electronics-earbuds",
+        "author": "Ishaan",
+        "rating": 4,
+        "comment": "Bluetooth connection is stable, no dropouts.",
+        "date": "2026-07-22"
+      },
+      {
+        "id": "rev-109",
+        "productId": "prod-electronics-earbuds",
+        "author": "Rohan",
+        "rating": 4,
+        "comment": "Touch controls are responsive and intuitive.",
+        "date": "2026-08-26"
+      },
+      {
+        "id": "rev-110",
+        "productId": "prod-electronics-earbuds",
+        "author": "Meera",
+        "rating": 5,
+        "comment": "Great bass without distortion at high volume.",
+        "date": "2026-08-21"
+      },
+      {
+        "id": "rev-111",
+        "productId": "prod-electronics-tablet",
+        "author": "Kavya",
+        "rating": 5,
+        "comment": "Display is crisp, great for reading and sketching.",
+        "date": "2026-09-01"
+      },
+      {
+        "id": "rev-112",
+        "productId": "prod-electronics-tablet",
+        "author": "Varun",
+        "rating": 4,
+        "comment": "Battery easily lasts a full day of use.",
+        "date": "2026-09-13"
+      },
+      {
+        "id": "rev-113",
+        "productId": "prod-electronics-tablet",
+        "author": "Tara",
+        "rating": 5,
+        "comment": "Stylus response feels smooth and precise.",
+        "date": "2026-09-13"
+      },
+      {
+        "id": "rev-114",
+        "productId": "prod-electronics-tablet",
+        "author": "Neha",
+        "rating": 5,
+        "comment": "Fast enough for multitasking without lag.",
+        "date": "2026-07-03"
+      },
+      {
+        "id": "rev-115",
+        "productId": "prod-electronics-tablet",
+        "author": "Pooja",
+        "rating": 5,
+        "comment": "Display is crisp, great for reading and sketching.",
+        "date": "2026-08-01"
+      },
+      {
+        "id": "rev-116",
+        "productId": "prod-beauty-lipstick-trio",
+        "author": "Simran",
+        "rating": 4,
+        "comment": "Colours are exactly as pictured, long-lasting formula.",
+        "date": "2026-08-13"
+      },
+      {
+        "id": "rev-117",
+        "productId": "prod-beauty-lipstick-trio",
+        "author": "Aman",
+        "rating": 5,
+        "comment": "Doesn't dry out my lips like other mattes.",
+        "date": "2026-09-12"
+      },
+      {
+        "id": "rev-118",
+        "productId": "prod-beauty-lipstick-trio",
+        "author": "Kavya",
+        "rating": 5,
+        "comment": "Great pigmentation in just one swipe.",
+        "date": "2026-08-25"
+      },
+      {
+        "id": "rev-119",
+        "productId": "prod-beauty-lipstick-trio",
+        "author": "Ananya",
+        "rating": 4,
+        "comment": "Lasted through a full day without touch-ups.",
+        "date": "2026-09-01"
+      },
+      {
+        "id": "rev-120",
+        "productId": "prod-beauty-lipstick-trio",
+        "author": "Meera",
+        "rating": 4,
+        "comment": "Packaging feels premium and travel-friendly.",
+        "date": "2026-09-01"
+      },
+      {
+        "id": "rev-121",
+        "productId": "prod-beauty-lipstick-trio",
+        "author": "Rahul",
+        "rating": 5,
+        "comment": "My new go-to shades for everyday wear.",
+        "date": "2026-07-19"
+      },
+      {
+        "id": "rev-122",
+        "productId": "prod-beauty-vitamin-c-serum",
+        "author": "Neha",
+        "rating": 4,
+        "comment": "Noticed brighter skin within two weeks.",
+        "date": "2026-09-24"
+      },
+      {
+        "id": "rev-123",
+        "productId": "prod-beauty-vitamin-c-serum",
+        "author": "Rohan",
+        "rating": 5,
+        "comment": "Absorbs quickly, doesn't feel sticky.",
+        "date": "2026-09-14"
+      },
+      {
+        "id": "rev-124",
+        "productId": "prod-beauty-vitamin-c-serum",
+        "author": "Siddharth",
+        "rating": 5,
+        "comment": "A little goes a long way, bottle lasts ages.",
+        "date": "2026-08-26"
+      },
+      {
+        "id": "rev-125",
+        "productId": "prod-beauty-vitamin-c-serum",
+        "author": "Ritu",
+        "rating": 5,
+        "comment": "Helped fade some old dark spots.",
+        "date": "2026-09-04"
+      },
+      {
+        "id": "rev-126",
+        "productId": "prod-beauty-vitamin-c-serum",
+        "author": "Ananya",
+        "rating": 5,
+        "comment": "No irritation even on sensitive skin.",
+        "date": "2026-08-04"
+      },
+      {
+        "id": "rev-127",
+        "productId": "prod-beauty-vitamin-c-serum",
+        "author": "Meera",
+        "rating": 4,
+        "comment": "Lightweight texture, layers well under moisturizer.",
+        "date": "2026-07-25"
+      },
+      {
+        "id": "rev-128",
+        "productId": "prod-beauty-vitamin-c-serum",
+        "author": "Simran",
+        "rating": 5,
+        "comment": "Visible glow after consistent use.",
+        "date": "2026-07-26"
+      }
+    ],
+    "coupons": [
+      {
+        "id": "coupon-welcome10",
+        "code": "WELCOME10",
+        "discountType": "percentage",
+        "discountValue": 10,
+        "minimumOrder": 999,
+        "active": true,
+        "usageCount": 0
+      },
+      {
+        "id": "coupon-flat500",
+        "code": "FLAT500",
+        "discountType": "fixed",
+        "discountValue": 500,
+        "minimumOrder": 3000,
+        "active": true,
+        "usageCount": 0
+      },
+      {
+        "id": "coupon-nextgenify20",
+        "code": "NextGenify20",
+        "discountType": "percentage",
+        "discountValue": 20,
+        "minimumOrder": 2000,
+        "maximumDiscount": 2000,
+        "usageLimit": 100,
+        "active": true,
+        "usageCount": 0
+      }
+    ]
+  }
+}

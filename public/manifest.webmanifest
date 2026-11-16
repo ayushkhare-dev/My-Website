@@ -1,0 +1,10 @@
+{
+  "name": "NextGenify — Everything You Want. One Extraordinary Store.",
+  "short_name": "NextGenify",
+  "description": "NextGenify is a premium multi-category store for fashion, watches, electronics, beauty and lifestyle — curated, cinematic, unforgettable.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4ef",
+  "theme_color": "#f7f4ef",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "nextgenify",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "dev:server": "cd server && python main.py",
+    "dev:all": "concurrently -k -n web,api -c blue,green \"npm run dev\" \"npm run dev:server\"",
+    "build": "tsc -b && vite build",
+    "start": "cd server && python main.py",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@types/three": "^0.186.0",
+    "@use-gesture/react": "^10.3.1",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.20",
+    "lucide-react": "^0.469.0",
+    "motion": "^11.15.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.3"
+  }
+}

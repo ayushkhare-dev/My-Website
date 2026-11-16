@@ -1,0 +1,89 @@
+/* Namespaced styles for the floating shopping assistant only.
+   Imported exclusively by ShopBot.tsx — never touches global CSS or any
+   existing component's selectors. */
+
+.ngbot-root {
+  position: relative;
+}
+
+.ngbot-fab {
+  width: 58px;
+  height: 58px;
+  right: 1rem;
+  bottom: 5.5rem;
+  box-shadow: 0 8px 28px -6px color-mix(in oklch, var(--color-accent) 65%, transparent), 0 2px 8px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  border: none;
+}
+
+@media (min-width: 640px) {
+  .ngbot-fab {
+    right: 1.5rem;
+    bottom: 1.75rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .ngbot-fab {
+    bottom: 1.75rem;
+  }
+}
+
+.ngbot-glow-ring {
+  position: absolute;
+  inset: -6px;
+  border-radius: 999px;
+  background: color-mix(in oklch, var(--color-accent) 55%, transparent);
+  animation: ngbot-pulse 2.2s ease-out infinite;
+  pointer-events: none;
+}
+
+@keyframes ngbot-pulse {
+  0% {
+    transform: scale(0.85);
+    opacity: 0.55;
+  }
+  70% {
+    transform: scale(1.35);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1.35);
+    opacity: 0;
+  }
+}
+
+.ngbot-panel {
+  right: 1rem;
+  bottom: 10.5rem;
+  width: min(92vw, 380px);
+  height: min(72vh, 560px);
+}
+
+@media (min-width: 640px) {
+  .ngbot-panel {
+    right: 1.5rem;
+    bottom: 6rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .ngbot-panel {
+    bottom: 6rem;
+  }
+}
+
+.ngbot-scroll {
+  scrollbar-width: thin;
+}
+
+.ngbot-chip {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.ngbot-suggestion {
+  background: transparent;
+  cursor: pointer;
+}
